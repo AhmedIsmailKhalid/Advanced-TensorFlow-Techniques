@@ -95,4 +95,4 @@ The notebooks are organized into the following sections, each focusing on a diff
 
 ### Note
 
-Please note that this repository is a work in progress. Due to data loss and issues with a previous repository, we are in the process of restoring and updating the content. We appreciate your understanding and patience.
+Please note that this repository is a work in progress. Due to data loss and issues with a previous repository, I am in the process of restoring and updating the content. I appreciate your understanding and patience.
